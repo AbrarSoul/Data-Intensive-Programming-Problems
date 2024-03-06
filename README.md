@@ -8,6 +8,6 @@ Importable Databricks notebooks for the assignment:
 
 GitHub viewable documents and solutions:
 
-- [Task instructions](Task Instructions.md)
+- [Task Instructions](Task Instructions.md) 
 - [Example outputs](Example Output.md)
 

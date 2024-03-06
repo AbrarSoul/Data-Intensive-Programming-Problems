@@ -9,5 +9,5 @@ Importable Databricks notebooks for the assignment:
 GitHub viewable documents and solutions:
 
 - [Task Instructions](https://github.com/AbrarSoul/Data-Intensive-Programming-Problems/blob/main/Task%20Instructions.md) 
-- [Example outputs](Example Output.md)
+- [Example outputs](https://github.com/AbrarSoul/Data-Intensive-Programming-Problems/blob/main/Example%20Output.md)
 
